@@ -1,7 +1,26 @@
-### Hi there 👋
+# Hi there 👋
+## Current Projects
+### ArkServerAPI-Template
+A simple clone-to-compile template and example plugin for the Ark Server API.
+### PBBGject
+An extremely early WIP project to add more color palettes to the game Phantom Breaker Battle Grounds.
 
-![2bite GitHub stats](https://github-readme-stats.vercel.app/api?username=2bite&count_private=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2bite&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2bite&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2bite&layout=compact&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=2bite&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-⚡ Fun fact: Snakes Have Teeth and Fangs
+<!--
+**2bite/2bite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
